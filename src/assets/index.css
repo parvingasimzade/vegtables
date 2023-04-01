@@ -1,0 +1,16 @@
+.col-lg-6 {
+  box-shadow: 0 0 10px #aaa;
+  padding: 30px;
+}
+
+img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.bg-lolita2 {
+  background-color: rgb(5, 139, 5);
+}
+.bg-lolita {
+  background-color: rgb(55, 240, 55);
+}
